@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+    <node name="get_data_node" pkg="rbkairos_moveit_config" type="execute_trajectory.py">
+    </node>
+</launch>
